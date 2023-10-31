@@ -8,12 +8,11 @@ body{
 #background{
     background-image: url(./Standard.png);
     background-attachment: fixed;
-    background-size: 30%;
+    background-size: 50%;
     background-repeat: no-repeat;
     background-position:50%;
     /* background-position: ; */
-    /* margin-bottom: -140%; */
-/*  */
+    margin-top: -5%;
 }
 #div1{
     position: sticky;
@@ -69,7 +68,7 @@ body{
 @keyframes check{
     50%{
         visibility:visible;
-        margin-top: 25%;
+        margin-top: 0%;
     }
 }
 #with{
